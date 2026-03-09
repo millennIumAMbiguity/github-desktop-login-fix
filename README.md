@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="icon.png">
+  <h1>GitDesk auth quick reset</h1>
+  <a>⌏⌎<br>◠</a>
+</div>
+
 # GitHub Desktop → Auto Login Fix
 A one-button solution for the issue caused by changing accounts in GitHub Desktop.\
 Resets your name and changes the email with a single key.
