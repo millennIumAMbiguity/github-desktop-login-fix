@@ -30,9 +30,9 @@ RunFix(mailOffset)
 	targetY := centerH - 160
 	Click, %centerW%, %targetY%
 	Send {RCtrl down}{a}{RCtrl up}{Backspace}
-	targetY := centerH - 100
+	targetY := centerH - 85
 	Click, %centerW%, %targetY%
-	targetY := centerH - 80 + (mailOffset * 15)
+	targetY := centerH - 55 + (mailOffset * 15)
 	Click, %centerW%, %targetY%
 	targetX := centerW + 100
 	targetY := centerH + 230
